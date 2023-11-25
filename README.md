@@ -1,2 +1,2 @@
 # Random_Projects
-Cool Projects 
+Cool Projects done with easy things.
