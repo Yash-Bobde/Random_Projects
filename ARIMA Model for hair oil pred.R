@@ -1,4 +1,4 @@
-# Load necessary libraries
+#   Load necessary libraries
 library(forecast)
 library(ggplot2)
 
